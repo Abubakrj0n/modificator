@@ -1,0 +1,16 @@
+D:\C#\home14\obj\Debug\net5.0\home14.csproj.AssemblyReference.cache
+D:\C#\home14\obj\Debug\net5.0\home14.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\home14\obj\Debug\net5.0\home14.AssemblyInfoInputs.cache
+D:\C#\home14\obj\Debug\net5.0\home14.AssemblyInfo.cs
+D:\C#\home14\obj\Debug\net5.0\home14.csproj.CoreCompileInputs.cache
+D:\C#\home14\bin\Debug\net5.0\home14.exe
+D:\C#\home14\bin\Debug\net5.0\home14.deps.json
+D:\C#\home14\bin\Debug\net5.0\home14.runtimeconfig.json
+D:\C#\home14\bin\Debug\net5.0\home14.runtimeconfig.dev.json
+D:\C#\home14\bin\Debug\net5.0\home14.dll
+D:\C#\home14\bin\Debug\net5.0\ref\home14.dll
+D:\C#\home14\bin\Debug\net5.0\home14.pdb
+D:\C#\home14\obj\Debug\net5.0\home14.dll
+D:\C#\home14\obj\Debug\net5.0\ref\home14.dll
+D:\C#\home14\obj\Debug\net5.0\home14.pdb
+D:\C#\home14\obj\Debug\net5.0\home14.genruntimeconfig.cache
